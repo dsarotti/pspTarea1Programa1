@@ -1,6 +1,6 @@
 
 public class Tarea1 {
-    
+
     /** 
      * @param args argumentos de entrada
      */
